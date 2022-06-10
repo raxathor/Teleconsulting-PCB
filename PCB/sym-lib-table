@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ESP32-DEVKITC-32D")(type "Legacy")(uri "D:/new pcb/Teleconsulting_PCB/Teleconsulting-PCB/Libraries/ESP32-DEVKITC-32D.lib")(options "")(descr ""))
+  (lib (name "SM10B-SRSS-TB_LF__SN_")(type "Legacy")(uri "D:/new pcb/Teleconsulting_PCB/Teleconsulting-PCB/Libraries/SM10B-SRSS-TB_LF__SN_.lib")(options "")(descr ""))
+)
